@@ -3,9 +3,9 @@ Simple tool to do all the setup I manually do everytime I re-install windows 10(
 
 ## Currently working:
 #### firefox_setup_downloader.py 
-**Downloads a firefox setup .exe file for installation without needing to deal with MS-Edge, and their intrusive popups.**
+- Downloads a firefox setup .exe file for installation without needing to deal with MS-Edge, and their intrusive popups.
 #### disable_uac.ps1 
-
+- disabled UAC in windows 10/11, in order to support installation of applications with the script
 
 
 ## TODO:
