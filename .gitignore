@@ -1,7 +1,2 @@
 /__pycache__
 /gui-inspect-tool
-
-*.exe
-*.dll
-*.EXE
-*.DLL
