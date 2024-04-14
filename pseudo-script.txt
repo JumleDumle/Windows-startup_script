@@ -1,0 +1,13 @@
+main() {
+// requires internet access to download - maybe include setup files in script folder?
+
+ firefox {
+  download firefox installer and install firefox(), 
+  login with seperate account and setup plugins()
+}
+
+ winaero-tweaker {
+  download and install winaerotweaker(),
+  import tweaks from file()
+}
+}
