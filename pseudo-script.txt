@@ -1,5 +1,6 @@
 main() {
-// requires internet access to download - maybe include setup files in script folder?
+// requires internet access to download
+//maybe include setup files in script folder?
 
  firefox {
   download firefox installer and install firefox(), 
